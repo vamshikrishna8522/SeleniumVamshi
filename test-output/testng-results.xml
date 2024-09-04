@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T20:46:07 IST" name="Suite" finished-at="2024-08-31T20:46:07 IST" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T20:46:07 IST" name="Test Runner 2" finished-at="2024-08-31T20:46:07 IST" duration-ms="52">
+      <class name="DistributedParallel.Test5">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test5@38425407]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test5@38425407]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test5 -->
+      <class name="DistributedParallel.Test4">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test4@43bc63a3]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test4@43bc63a3]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test4 -->
+      <class name="DistributedParallel.Test6">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test6@702657cc]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test6@702657cc]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test6 -->
+    </test> <!-- Test Runner 2 -->
+    <test started-at="2024-08-31T20:46:07 IST" name="Test Runner 1" finished-at="2024-08-31T20:46:07 IST" duration-ms="50">
+      <class name="DistributedParallel.Test3">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test3@4ec4f3a0]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test3@4ec4f3a0]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test3 -->
+      <class name="DistributedParallel.Test2">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test2@223191a6]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test2@223191a6]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test2 -->
+      <class name="DistributedParallel.Test1">
+        <test-method signature="Demo1()[pri:0, instance:DistributedParallel.Test1@2b662a77]" started-at="2024-08-31T20:46:07 IST" name="Demo1" finished-at="2024-08-31T20:46:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method signature="Demo2()[pri:0, instance:DistributedParallel.Test1@2b662a77]" started-at="2024-08-31T20:46:07 IST" name="Demo2" finished-at="2024-08-31T20:46:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- DistributedParallel.Test1 -->
+    </test> <!-- Test Runner 1 -->
+  </suite> <!-- Suite -->
+</testng-results>
